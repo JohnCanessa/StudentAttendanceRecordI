@@ -4,7 +4,7 @@ Written in Java.
 Includes a testing scaffolding.
 If interested in my approach and comments you can find them in a post in my blog at:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/08/29/student-attendance-record-i/
 
 Have fun and enjoy;
 
